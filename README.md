@@ -1,5 +1,5 @@
 This project is deployed on Firesbase. To run the live App click here.<br />
-[https://covid-19-tracker-e1502.web.app/](https://covid-19-tracker-e1502.web.app/)
+[https://covid-19-tracker-e1502.web.app/](https://covid-19-tracker-e1502.web.app/)<br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
